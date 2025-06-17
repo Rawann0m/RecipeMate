@@ -33,10 +33,6 @@ A sleek and modern iOS app built using **SwiftUI**, allowing users to browse, se
    cd MealsRecipesApp
 2. **Open in Xcode**
 3. **Add API Key to Info.plist**
-```xml
-<key>Food2ForkAPIKey</key>
-<string>YOUR_API_KEY_HERE</string>
-```
 4. **Build & Run**
 
    Choose a simulator or real device
